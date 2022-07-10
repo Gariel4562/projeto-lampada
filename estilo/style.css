@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+*{
+    padding:0;
+    margin:0;
+}
+:root{
+
+    --var:'Lobster', cursive;
+
+
+}
+header {
+    background-image: radial-gradient(transparent,yellow,transparent);
+}
+
+h1 {
+    font-family: var(--var);
+    text-align: center;
+    font-size: 3em;
+    color:black;
+    margin-bottom:30px;
+
+}
+
+main {
+    text-align: center;
+    background-color: darkorange;
+    padding:20px;
+    margin-bottom:300px;
+    
+}
+
+main div button {
+    padding:20px;
+}
+footer {
+    background-color: black;
+    color:white;
+    text-align: center;
+}
