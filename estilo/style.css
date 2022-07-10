@@ -27,7 +27,10 @@ main {
     background-color: darkorange;
     padding:20px;
     margin-bottom:300px;
-    
+    max-width:800px;
+    margin:auto;
+    margin-bottom:300px;
+    border-radius: 20px;
 }
 
 main div button {
